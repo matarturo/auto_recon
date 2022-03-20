@@ -18,7 +18,7 @@ Para correr este script se requiere ingresar al equipo con credenciales de usuar
 $ cd /var/log
 $ sudo git clone https://github.com/matarturo/auto_recon.git
 $ cd auto_recon
-$ sudo cp recons.sh /var/log
+$ sudo cp recon.sh /var/log
 $ cd /var/log
 
 # Para otorgar permisos de ejecución
